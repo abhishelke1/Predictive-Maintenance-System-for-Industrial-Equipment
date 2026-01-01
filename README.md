@@ -120,7 +120,7 @@ streamlit run 4_dashboard.py
 
 **Abhishek Shelke**
 
-* **Role:** Information Technology Student (Class of 2027)
+* **Role:** Information Technology Student 
 * **Focus:** AI, Data Science, and IoT Automation
 * **LinkedIn:** [Abhishek Shelke](https://linkedin.com/in/abhishek-shelke-7b2830287)
 * **Portfolio:** [Abhishek Shelke Portfolio](https://abhishelke1.github.io/Portfolio-BY-Abhishek-Shelke)
